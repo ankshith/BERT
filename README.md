@@ -34,5 +34,5 @@
 ![11](https://github.com/user-attachments/assets/db6a51e9-e298-42e8-a130-b5d3a1cd8807)
 <br>
 <br>
-### Architectures Based On Inputs
+### Architecture Manipulation
 ![BERT_1](https://github.com/user-attachments/assets/bdad58e9-732f-4ec5-aeea-4f1c62f2817e)
