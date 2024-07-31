@@ -25,4 +25,4 @@
 ![11](https://github.com/user-attachments/assets/db6a51e9-e298-42e8-a130-b5d3a1cd8807)
 <br>
 <br>
-https://github.com/user-attachments/assets/dc9ab7aa-ad07-4b14-97a6-374f815dee07
+![BERT_1](https://github.com/user-attachments/assets/bdad58e9-732f-4ec5-aeea-4f1c62f2817e)
